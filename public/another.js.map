@@ -1,0 +1,1 @@
+{"version":3,"file":"another.js","mappings":"2HAEAA,QAAQC,IAAIC,IAAAA,KAAO,CAAC,UAAW,SAAU,WAAY,Q","sources":["webpack://my_spotify/./client/another-module.js"],"sourcesContent":["import _ from 'lodash';\n\nconsole.log(_.join(['Another', 'module', 'loaded!'], ' '));"],"names":["console","log","_"],"sourceRoot":""}
